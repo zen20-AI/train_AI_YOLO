@@ -5,7 +5,7 @@ Need data for your project? Before spending time on annotating, check out Robofl
 
 [![Roboflow Universe](https://media.roboflow.com/notebooks/template/uni-banner-frame.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672878480290)](https://universe.roboflow.com/)
 
-## Preparing a custom dataset
+## Preparing a custom dataset train-YOLO-object-detection
 
 Building a custom dataset can be a painful process. It might take dozens or even hundreds of hours to collect images, label them, and export them in the proper format. Fortunately, Roboflow makes this process as straightforward and fast as possible. Let me show you how!
 
@@ -67,7 +67,7 @@ Once the dataset version is generated, we have a hosted dataset we can load dire
 </div>
 
 
-## Preparing a custom dataset
+## Preparing a custom dataset train-YOLO-classification
 
 Building a custom dataset can be a painful process. It might take dozens or even hundreds of hours to collect images, label them, and export them in the proper format. Fortunately, Roboflow makes this process as straightforward and fast as possible. Let me show you how!
 
